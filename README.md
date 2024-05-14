@@ -9,7 +9,7 @@ https://netpie.io/
 ![Screenshot 2024-05-14 133144](https://github.com/QuadTinnakon/AnalogRead_Radar_Wifi_V3/assets/9403558/a4ccb563-c21b-4c46-9efa-15bed258026f)
 
 โดย Device Schema จะประกาศในรูปแบบ JSON มีลักษณะดังนี้
-
+!
 {
     "additionalProperties": false,
     "properties": {
@@ -50,3 +50,4 @@ https://netpie.io/
             }
     }
 }
+!
