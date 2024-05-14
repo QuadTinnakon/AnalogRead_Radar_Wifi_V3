@@ -158,7 +158,7 @@ microseconds = micros();
     voltage = 0;
   }
   datastr = "{\"data\": {\"power\":" + String(power) + ", \"voltage\":" + String(voltage) + 
-  ", \"voltage\":" + String(ampere) +
+  ", \"ampere\":" + String(ampere) +
   ", \"Time\":" + String(currentTime) +"}}";
   
   Serial.println(datastr);
